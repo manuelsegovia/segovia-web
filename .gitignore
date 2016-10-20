@@ -17,5 +17,6 @@
 !/log/.keep
 !/tmp/.keep
 .Ds_Store
+.Ds_Store?
 # Ignore Byebug command history file.
 .byebug_history
