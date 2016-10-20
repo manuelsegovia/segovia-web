@@ -16,6 +16,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+#added .Ds_Stores
 .Ds_Store
 .Ds_Store?
 # Ignore Byebug command history file.
