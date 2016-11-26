@@ -39,7 +39,7 @@ class TweetsController < InheritedResources::Base
 
     def tweet_params
       #params.require(:tweet).permit(:user_id, :content)
-      params.require(:tweet).permit(:content)
+      params.require(:tweet).permit(:content, :image)
     end
 end
 

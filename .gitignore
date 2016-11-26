@@ -21,3 +21,5 @@
 .Ds_Store?
 # Ignore Byebug command history file.
 .byebug_history
+# Ignore public system folder
+/public/system
