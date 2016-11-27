@@ -19,6 +19,8 @@
 #added .Ds_Stores
 .Ds_Store
 .Ds_Store?
+#added .env
+.env
 # Ignore Byebug command history file.
 .byebug_history
 # Ignore public system folder
