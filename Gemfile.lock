@@ -252,7 +252,7 @@ DEPENDENCIES
   activeadmin (~> 1.0.0.pre4)
   acts_as_follower!
   acts_as_votable (~> 0.10.0)
-  aws-sdk (~> 2)
+  aws-sdk (~> 2.3)
   bootstrap (~> 4.0.0.alpha4)
   byebug
   coffee-rails (~> 4.2)
